@@ -1,0 +1,3 @@
+i can now read the file
+i can use for loop
+and i can use while loop also
